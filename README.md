@@ -6,6 +6,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Android-7.0%2B-green.svg" alt="Android Version">
   <img src="https://img.shields.io/badge/Kotlin-2.0-blue.svg" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Gemini%20Pro-Heavily-orange" alt="Gemini Pro">
+  <img src="https://img.shields.io/badge/GPT%20Go-Low-blue" alt="GPT Go">
   <img src="https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg" alt="License">
 </p>
 
