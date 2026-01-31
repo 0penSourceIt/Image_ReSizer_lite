@@ -48,6 +48,17 @@ This project embraces the future of software creation:
 
 ---
 
+## How it Works: 
+
+### Compression Page:
+- You can select Single image or multiple (Batch Images).
+- You can input Desire Size either in KB or MB. 
+- Can compress into either JPG/JPEG or PDF (whichever you select).
+- There are certain modes you can consider.
+- Select the format JPG/PDF?
+- Compress and your output with location will be displayed into Preview-Card
+- Same Goes for **Conversion Page**
+
 ## 🛠️ Key Features (Lite Edition)
 
 ### ⚡ Smart Compression Engine
