@@ -21,6 +21,33 @@ This project embraces the future of software creation:
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Home Screen</b></td>
+      <td align="center"><b>Compress Screen</b></td>
+      <td align="center"><b>Convert Screen</b></td>
+    </tr>
+    <tr>
+      <td><img src="Screenshots/HomeScreen.png" width="250"></td>
+      <td><img src="Screenshots/Compress_Screen.jpg" width="250"></td>
+      <td><img src="Screenshots/Convert_Screen.jpg" width="250"></td>
+    </tr>
+    <tr>
+      <td align="center" colspan="1.5"><b>Sample 01 (Compressed)</b></td>
+      <td align="center" colspan="1.5"><b>Sample 02 (Converted)</b></td>
+    </tr>
+    <tr>
+      <td align="center" colspan="1.5"><img src="Screenshots/Compressed&Converted_Sample01.jpg" width="350"></td>
+      <td align="center" colspan="1.5"><img src="Screenshots/Compressed&Converted_Sample02.jpg" width="350"></td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🛠️ Key Features (Lite Edition)
 
 ### ⚡ Smart Compression Engine
