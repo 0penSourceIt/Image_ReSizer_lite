@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Screenshots/github_repo.png" width="512" alt="Image ReSizer Lite Logo">
+  <img src="Screenshots/github_repo.png?v=1" width="512" alt="Image ReSizer Lite Logo">
   <h1>Image ReSizer Lite</h1>
 </div>
 
